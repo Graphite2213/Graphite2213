@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello, Im Graphite!
+I do programming and play videogames.
 
-<!--
-**Graphite2213/Graphite2213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a bunch of projects of mine on this GitHub account but also a bunch in private/off-platform repos, 
+so feel free to look around :). (Keep in mind that most aren't documented properly)
 
-Here are some ideas to get you started:
+Im "proficient" in C(++), Javascript and Python although I can use other languages as well.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some quick facts you might wish to know about me:
+* Age: 14
+* Pronouns: He/Him
+* Favourite videogame: TF2
+* Favourite musician: Will Wood
+
+Do not mind the bareness of this page as it's only here in case im redesigning my website (which happens quite often).
+
+Oh btw, this pfp im using on GitHub is not mine and is just a screenshot from a video by Martincitopants.
