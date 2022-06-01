@@ -13,5 +13,3 @@ Here are some quick facts you might wish to know about me:
 * Favourite musician: Will Wood
 
 Do not mind the bareness of this page as it's only here in case im redesigning my website (which happens quite often).
-
-Oh btw, this pfp im using on GitHub is not mine and is just a screenshot from a video by Martincitopants.
