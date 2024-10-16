@@ -7,7 +7,7 @@ so feel free to look around :). (Keep in mind that most aren't documented proper
 Im "proficient" in C(++), Javascript and Python although I can use other languages as well.
 
 Here are some quick facts you might wish to know about me:
-* Age: 16
+* Age: 17
 * Pronouns: He/Him
 * Favourite videogame: TF2
 
